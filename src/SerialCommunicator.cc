@@ -6,7 +6,7 @@
 #ifdef WIN32
 #define INVALID_PORT INVALID_HANDLE_VALUE
 
-#include <winbase.h>
+#include <windows.h>
 #else
 #define INVALID_PORT -1
 
