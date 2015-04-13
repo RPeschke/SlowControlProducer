@@ -5,6 +5,7 @@
 #include "eudaq/Utils.hh"
 #include "eudaq/OptionParser.hh"
 #include "eudaq/ExampleHardware.hh"
+#include "eudaq/Configuration.hh"
 #include "CommandFactory.hh"
 #include "ExceptionFactory.hh"
 #include "LazyDeviceReader.hh"
